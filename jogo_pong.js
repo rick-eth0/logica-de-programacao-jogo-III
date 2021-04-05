@@ -54,7 +54,7 @@ function setup() {
     //verificaColisaoRaquete();
     verificaColisaoRaquete(xRaquete, yRaquete)
     mostraRaquete(xRaqueteOponente,yRaqueteOponente ); 
-    movimentaRaqueteOponente();
+    //movimentaRaqueteOponente();
     verificaColisaoRaquete(xRaqueteOponente, yRaqueteOponente);
     incluiPlacar();
     marcaPonto();
